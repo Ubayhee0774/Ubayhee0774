@@ -6,7 +6,7 @@ I'm Ubay Hakim Arrafiq from Indonesia, and i hope found new innovations for futu
 ## Skills and Experience
 * 📱 Laravel
 * 🤖 Arduino
-* 💻 HTML, CSS, JS, JAVA, PHP
+* 💻 HTML, CSS, JS, JAVA, PHP, PYTHON
 * 🖼️ Figma, PS, AI, XD
 
 
