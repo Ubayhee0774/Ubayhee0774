@@ -7,7 +7,7 @@ I'm Ubay Hakim Arrafiq from Indonesia, and i hope found new innovations for futu
 * 📱 Laravel
 * 🤖 Arduino
 * 💻 HTML, CSS, JS, JAVA, PHP, PYTHON
-* 🖼️ Figma, PS, AI, XD
+* 🖼️ Figma, PS
 
 
 <img align='right' src='https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif' width='200"'>
